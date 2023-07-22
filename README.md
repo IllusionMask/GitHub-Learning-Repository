@@ -1,6 +1,6 @@
 # GitHub-Learning-Repository
 Udemy GitHub Learning Course
 
-This line was modifed manually during conflicts resolution.
+This line was modifed locally.
 
-New Line was added Locally by another user
+This line was added in feature-2 branch.
