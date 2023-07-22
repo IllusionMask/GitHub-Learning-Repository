@@ -1,3 +1,4 @@
 # GitHub-Learning-Repository
 Udemy GitHub Learning Course
-New Edit
+
+README.md file just edited manually. One more edit at GitHub.
